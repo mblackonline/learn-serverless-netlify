@@ -1,5 +1,3 @@
-const fetch = require('node-fetch').default;
-
 exports.handler = async function () {
     const POKE_API = 'https://pokeapi.co/api/v2/pokemon/ditto';
     
