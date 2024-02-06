@@ -2,7 +2,9 @@
 
 Learn how to use serverless functions in less than 30 minutes!
 
-📼: [Free Video Course](https://explorers.netlify.com/learn/up-and-running-with-serverless-functions/)
+- 📼: [Free Video Course](https://explorers.netlify.com/learn/up-and-running-with-serverless-functions/) available through the Netlify Explorers learning platform. 
+
+- The same video series can also be found on YouTube here: https://www.youtube.com/playlist?list=PLzlG0L9jlhENl1o2vLw6vFKvHBb9D5A0u. In my opinion, the YouTube vidoes are easier to follow, as some of the Netlify videos seem to get cut off toward the end when transitioning to the next video. 
 
 ## 📚 Resources
 
