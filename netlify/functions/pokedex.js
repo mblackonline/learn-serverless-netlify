@@ -1,5 +1,5 @@
 exports.handler = async function () {
-    const POKE_API = 'https://pokeapi.co/api/v2/pokemon/ditto';
+    const POKE_API = 'https://pokeapi.co/api/v2/pokedex/kanto';
     
     const response = await fetch(POKE_API);
     const data = await response.json();
